@@ -6,7 +6,7 @@ Animal Crossing is a social simulation video game series developed and published
 
 **What I did:**<br>
 1. Function: What you could make or are close to make?  <br>
-   Created simple functions to return which DIY recipes you could make or are close to make, given what you had in your bag. As a player, I often confused by which recipe was close to make. Glad I made it!<br>
+   Created simple functions to return which DIY recipes you could make or are close to make, given what you had in your bag. As a player, I often confused by which recipe was close to make. However, glad I made it! Hoping Nintendo will launch similar function in future version :)<br>
 2. Insights from EDA<br>
 
 *Jupyter Notebook<br>
